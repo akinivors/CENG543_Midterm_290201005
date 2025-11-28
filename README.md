@@ -3,6 +3,14 @@
 # CENG 543 - Midterm Examination
 **Student ID:** 290201005
 
+## List of colab notebooks that have been used in the experiments
+
+*https://colab.research.google.com/drive/1bZ6IllYL1CltSIlNl5sqySeskARNtTCa?usp=sharing
+*https://colab.research.google.com/drive/1znHSs34cOWqeVXBdqoPbHrcUxqPZqqw8?usp=sharing
+*https://colab.research.google.com/drive/1FIP90XjfE1KTfblCXoSlvLaBZJ-gTkNo?usp=sharing
+*https://colab.research.google.com/drive/16YLui7m-K3ETnoWfpefIJh7qD4jwN0sa?usp=sharing
+
+
 ## Project Structure
 This repository contains the solution for the Take-Home Midterm. The project is organized by question:
 
@@ -31,3 +39,7 @@ This repository contains the solution for the Take-Home Midterm. The project is 
 * **Q2:** Scaled Dot-Product attention proved superior to Multiplicative attention, validating the importance of the scaling factor.
 * **Q3:** Transformers demonstrated high sensitivity to hyperparameters (learning rate) compared to the robust baseline RNNs.
 * **Q4:** Dense Retrieval + Instruction-Tuned Generation (FLAN-T5) was identified as the only viable RAG configuration.
+
+
+
+
