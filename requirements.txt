@@ -1,0 +1,14 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+torchtext>=0.15.0
+spacy>=3.6.0
+torchmetrics>=1.0.0
+rank_bm25
+sentence-transformers
+bert_score
+matplotlib
+seaborn
+numpy
+pandas
+tqdm
